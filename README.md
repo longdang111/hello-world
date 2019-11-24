@@ -1,2 +1,5 @@
 # hello-world
-Code what you want to do, remember it will never be final, just keep on!
+
+Hey, guys!
+
+Danglong here, honestly, I don't know what to say, maybe later, just let us look at what I did!
